@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, 我是 Allen, 一个爱折腾的工程师👨🏻‍💻, 一个坚定的正版支持者💪🏻
+
+- 👨🏻‍🏭 之前在咖啡店(dotcom)做过算法工程师, 现在在彩云科技彩云小梦项目组做后端相关工作
+- 🌱 最近在第 N 次入门前端及 iOS
+- 🐦️ 以前是一个在 twitter 上不停碎碎念的家伙, 后来喝中药治好了
+- 📫 你可以通过邮件联系到我 me@allen0125.com
+
 <!--
 **allen0125/allen0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
