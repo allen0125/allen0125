@@ -1,26 +1,3 @@
 ### Hi there 👋
 
-Hi, 我是 Allen, 一个爱折腾的工程师👨🏻‍💻, 一个坚定的正版支持者💪🏻
-
-- 🐍️ 主要写 Python
-- 👨🏻‍🏭 之前在咖啡店(dotcom)做过算法工程师, 现在在彩云科技彩云小梦项目组做后端相关工作
-- 🌱 最近在第 N 次入门前端及 iOS
-- 🐦️ 以前是一个在 twitter 上不停碎碎念的家伙, 后来喝中药治好了
-- 💰️ 对交易有很大的兴趣, 一直在炒股和可转债, 坚信每一笔失败的交易都是对自身认识的不足
-- ⭐️️ 希望通过交易能有效的提升自己的认知以及赚到钱
-- 📫 你可以通过邮件联系到我 me@allen0125.com
-
-<!--
-**allen0125/allen0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, 我是 Allen, 一个爱折腾的工程师👨🏻‍💻
